@@ -1,5 +1,5 @@
 # Applied-Data-Science-Capstone
-Peer-graded Assignment: Capstone Project Notebook Week 1
+**Peer-graded Assignment: Capstone Project Notebook Week 1**
 
 **Contents:**
 
